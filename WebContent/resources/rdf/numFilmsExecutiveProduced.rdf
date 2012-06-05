@@ -1,0 +1,56 @@
+<rdf:RDF
+    xmlns="http://data.linkedmdb.org/resource/movie/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:t="http://tutori.al/" > 
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9893">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9844">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9853">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9862">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9943">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9752">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9746">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9663">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9928">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9932">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9726">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9763">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9753">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9800">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9761">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9730">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9762">
+    <t:numFilmsExecutiveProduced rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</t:numFilmsExecutiveProduced>
+  </rdf:Description>
+</rdf:RDF>

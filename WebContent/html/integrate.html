@@ -1,0 +1,50 @@
+
+<div id="integrateLeft">
+	<button id="integrateSurveyButton" type="button">Survey</button>
+	<select id="integrateClassList"></select>
+	<ul id="integrateClassContent"></ul>	
+	<textarea id="integrateSelectBox" cols="50" rows="10"></textarea>
+	<button id="integrateSelectButton" type="button">Select</button>
+</div>
+<br>
+<div id="integrateRight">
+	<div id="integrateData">		
+		<ol id="integrateDataFiles"></ol>
+	</div>	
+	<div id="integrateOntologies">
+		<select id="integrateOntologyFiles" size=3></select>
+		<form
+			action="http://localhost:8080/MovieInfo/integration?type=addOntology"
+			id="ont_form" name="ontform" method="POST"
+			enctype="multipart/form-data">
+			<div id="main">
+				<input name="ont_files" id="ontologyInput" size="20" type="file" />
+				<input id="addOntologyButton" type="button" name="action"
+					value="Upload" onclick="util_ont_redirect()" />
+				<iframe id='ont_iframe' name='ont_iframe' src="" hidden="true">
+				</iframe>
+			</div>
+		</form>
+		<button id="integrateDeleteOntologyButton" type="button">delete</button>
+	</div>
+	<div id="integrateRules">
+		<select id="integrateRulesFiles" size=3></select>
+		<form
+			action="http://localhost:8080/MovieInfo/integration?type=addRule"
+			id="rules_form" name="rulesform" method="POST"
+			enctype="multipart/form-data">
+			<div id="main">
+				<input name="rules_files" id="rulesInput" size="20" type="file" />
+				<input id="addRulesButton" type="button" name="action"
+					value="Upload" onclick="util_rules_redirect()" />
+				<iframe id='rules_iframe' name='rules_iframe' src="" hidden="true">
+				</iframe>
+			</div>
+		</form>
+		<button id="integrateDeleteRulesButton" type="button">delete</button>
+	</div>
+	<div id="integrateReasoners"></div>	
+</div>
+<div id="integrateBottom" style="width: 90%">
+	<table id="integrateSelectResults" class="display"></table>
+</div>

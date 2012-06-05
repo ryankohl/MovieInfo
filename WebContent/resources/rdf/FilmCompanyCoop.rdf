@@ -1,0 +1,522 @@
+<rdf:RDF
+    xmlns="http://data.linkedmdb.org/resource/movie/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:t="http://tutori.al/" > 
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38271">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9682"/>
+    <t:withFilmCompany>Columbia Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/247">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9778"/>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38133">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9737"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+    <t:withFilmCompany>DreamWorks</t:withFilmCompany>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/97">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/7"/>
+    <t:withFilmCompany>Metro-Goldwyn-Mayer</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38814">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9778"/>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38285">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9913"/>
+    <t:withFilmCompany>Metro-Goldwyn-Mayer</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38948">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>DreamWorks</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/840">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9778"/>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38568">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9746"/>
+    <t:withFilmCompany>Revolution Studios</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38487">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9685"/>
+    <t:withFilmCompany>Lucasfilm</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38191">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9912"/>
+    <t:withFilmCompany>Paramount Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/487">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9711"/>
+    <t:withFilmCompany>Columbia Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/78">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9685"/>
+    <t:withFilmCompany>Lucasfilm</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38373">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9867"/>
+    <t:withFilmCompany>Paramount Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38220">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9685"/>
+    <t:withFilmCompany>Lucasfilm</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/953">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9943"/>
+    <t:withFilmCompany>Revolution Studios</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/992">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9729"/>
+    <t:withFilmCompany>Studio Ghibli</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38284">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9682"/>
+    <t:withFilmCompany>Columbia Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/477">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9685"/>
+    <t:withFilmCompany>TriStar Pictures</t:withFilmCompany>
+    <t:withFilmCompany>Lucasfilm</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38502">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/24">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9640"/>
+    <t:withFilmCompany>Universal Studios</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/69">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9685"/>
+    <t:withFilmCompany>Lucasfilm</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/719">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9731"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/80">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9678"/>
+    <t:withFilmCompany>Mandalay Entertainment</t:withFilmCompany>
+    <t:withFilmCompany>Mandalay Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38799">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/856">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9763"/>
+    <t:withFilmCompany>Marvel Studios</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/75">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9685"/>
+    <t:withFilmCompany>20th Century Fox</t:withFilmCompany>
+    <t:withFilmCompany>Lucasfilm</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/956">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9706"/>
+    <t:withFilmCompany>TriStar Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38223">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9759"/>
+    <t:withFilmCompany>Pixar</t:withFilmCompany>
+    <t:withFilmCompany>Walt Disney Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/284">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9878"/>
+    <t:withFilmCompany>20th Century Fox</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/159">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9778"/>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38376">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9693"/>
+    <t:withFilmCompany>Columbia Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/569">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9693"/>
+    <t:withFilmCompany>Columbia Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/522">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/68">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9685"/>
+    <t:withFilmCompany>20th Century Fox</t:withFilmCompany>
+    <t:withFilmCompany>Lucasfilm</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38243">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9880"/>
+    <t:withFilmCompany>Metro-Goldwyn-Mayer</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39329">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9773"/>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+    <t:withFilmCompany>Touchstone Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38454">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9778"/>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38203">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9810"/>
+    <t:withFilmCompany>DreamWorks</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/442">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9745"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/76">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9685"/>
+    <t:withFilmCompany>20th Century Fox</t:withFilmCompany>
+    <t:withFilmCompany>Lucasfilm</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/8">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9749"/>
+    <t:withFilmCompany>Columbia Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39122">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9778"/>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38322">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9678"/>
+    <t:withFilmCompany>Lucasfilm</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38427">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38514">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9796"/>
+    <t:withFilmCompany>Columbia Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38455">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9778"/>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38990">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9753"/>
+    <t:withFilmCompany>New Line Cinema</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38085">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9761"/>
+    <t:withFilmCompany>New Line Cinema</t:withFilmCompany>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9657"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38938">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39299">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38204">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9682"/>
+    <t:withFilmCompany>Columbia Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/757">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38939">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/505">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9778"/>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/362">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9763"/>
+    <t:withFilmCompany>Marvel Studios</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39435">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9757"/>
+    <t:withFilmCompany>New Line Cinema</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38245">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9913"/>
+    <t:withFilmCompany>Paramount Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39368">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9717"/>
+    <t:withFilmCompany>Mandalay Pictures</t:withFilmCompany>
+    <t:withFilmCompany>Mandalay Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/425">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39500">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38196">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/285">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9858"/>
+    <t:withFilmCompany>Lions Gate Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/255">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9811"/>
+    <t:withFilmCompany>Universal Studios</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39215">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9943"/>
+    <t:withFilmCompany>Touchstone Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/104">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/7"/>
+    <t:withFilmCompany>Metro-Goldwyn-Mayer</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/122">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/343">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/3"/>
+    <t:withFilmCompany>Touchstone Pictures</t:withFilmCompany>
+    <t:withFilmCompany>Spyglass Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38274">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9912"/>
+    <t:withFilmCompany>Columbia Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39428">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9747"/>
+    <t:withFilmCompany>Dimension Films</t:withFilmCompany>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9743"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/721">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9640"/>
+    <t:withFilmCompany>Universal Studios</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38597">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9868"/>
+    <t:withFilmCompany>TriStar Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/65">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9763"/>
+    <t:withFilmCompany>Marvel Studios</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/446">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9905"/>
+    <t:withFilmCompany>TriStar Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/70">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9685"/>
+    <t:withFilmCompany>Lucasfilm</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/135">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9920"/>
+    <t:withFilmCompany>Warner Bros. Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/168">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9766"/>
+    <t:withFilmCompany>Edison Studios</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/221">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9778"/>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/107">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9682"/>
+    <t:withFilmCompany>Columbia Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38776">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9660"/>
+    <t:withFilmCompany>Lions Gate Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/334">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>DreamWorks</t:withFilmCompany>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9749"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38227">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9685"/>
+    <t:withFilmCompany>Lucasfilm</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38503">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9731"/>
+    <t:withFilmCompany>Touchstone Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39479">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>DreamWorks</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38251">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9778"/>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38445">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9913"/>
+    <t:withFilmCompany>Metro-Goldwyn-Mayer</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38262">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9913"/>
+    <t:withFilmCompany>Paramount Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39416">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9728"/>
+    <t:withFilmCompany>20th Century Fox</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/33">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9702"/>
+    <t:withFilmCompany>TriStar Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38451">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9913"/>
+    <t:withFilmCompany>Paramount Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38170">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9892"/>
+    <t:withFilmCompany>Spyglass Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/106">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/7"/>
+    <t:withFilmCompany>Metro-Goldwyn-Mayer</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38365">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9774"/>
+    <t:withFilmCompany>Metro-Goldwyn-Mayer</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/154">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>Amblin Entertainment</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/527">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9685"/>
+    <t:withFilmCompany>Lucasfilm</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/870">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9752"/>
+    <t:withFilmCompany>DreamWorks</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38789">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9778"/>
+    <t:withFilmCompany>The Walt Disney Company</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/294">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9773"/>
+    <t:withFilmCompany>Touchstone Pictures</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/424">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9884"/>
+    <t:withFilmCompany>Universal Studios</t:withFilmCompany>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38212">
+    <rdf:type rdf:resource="http://tutori.al/FilmCompanyCoop"/>
+    <t:actor rdf:resource="http://data.linkedmdb.org/resource/producer/9816"/>
+    <t:withFilmCompany>20th Century Fox</t:withFilmCompany>
+  </rdf:Description>
+</rdf:RDF>

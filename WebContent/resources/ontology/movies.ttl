@@ -1,0 +1,73 @@
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: 	<http://www.w3.org/2002/07/owl#> .
+@prefix :     <http://tutori.al/> .
+
+:Film rdfs:label "Film" .
+
+:Person rdfs:label "Person" .
+
+:Producer rdfs:label "Producer"; 
+	  rdfs:subClassOf :Person .
+
+:Executive-Producer rdfs:label "Executive Producer" ;
+		    rdfs:subClassOf :Person .
+
+:Director rdfs:label "Director"; 
+	  rdfs:subClassOf :Person .
+
+:Writer rdfs:label "Writer"; 
+	 rdfs:subClassOf :Person .
+
+:Actor rdfs:label "Actor"; 
+	 rdfs:subClassOf :Person .
+
+:Production-Company rdfs:label "Production Company" .
+
+:Country rdfs:label "Country" .
+
+
+:title rdfs:label "has title" ;
+       rdfs:domain :Film .
+
+:date rdfs:label "has date" ;
+      rdfs:domain :Film .
+
+:produced rdfs:label "was producer of" ;
+	  rdfs:domain :Producer ;
+	  rdfs:range :Film .
+
+:directed rdfs:label "was director of" ;
+	  rdfs:domain :Director ;
+	  rdfs:range :Film .
+
+:executive-produced rdfs:label "was executive producer of" ;
+	  rdfs:domain :Executive-Producer ;
+	  rdfs:range :Film .
+
+:rating rdfs:label "was rated" ;
+	  rdfs:domain :Film .
+
+:released rdfs:label "was released on" ;
+	  rdfs:domain :Film .
+
+:budget rdfs:label "had budget" ;
+	  rdfs:domain :Film .
+
+:gross rdfs:label "earned gross" ;
+	  rdfs:domain :Film .
+
+:starring rdfs:label "featured" ;
+	  rdfs:domain :Film ;
+	  rdfs:range :Actor .
+
+:worked-with rdfs:label "worked with" ;
+	     rdfs:domain :Person ;
+	     rdfs:range :Person ;
+	     a owl:SymmetricProperty .
+
+:name rdfs:label "has name" ;
+      rdfs:domain :Person .
+
+

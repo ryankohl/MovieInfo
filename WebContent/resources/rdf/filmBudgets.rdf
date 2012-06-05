@@ -1,0 +1,2509 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:t="http://tutori.al/"
+    xmlns="http://dbpedia.org/ontology/" > 
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Merlin_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don%27t_Tell_Mom_the_Babysitter%27s_Dead">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Shining_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Magnolia_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eye_of_the_Beholder_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Is_East_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">1.9</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Air_Force_One_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/High_Fidelity_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swing_Kids_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.9E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hard_Eight_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mystic_River_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scooby-Doo_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Signs_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Open_Season_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moulin_Rouge%21">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/There%27s_Something_About_Mary">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loser_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yes_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rogue_Trader_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.28E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Black_Dahlia_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Dragon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingdom_of_Heaven_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.47E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boys_Don%27t_Cry_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hot_Shots%21">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hell%27s_Angels_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3950000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beyond_the_Sea_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Commando_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NetForce_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Lampoon%27s_Van_Wilder">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Original_Sin_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spartacus_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evolution_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U-571_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edison_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/PCU_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Thin_Man_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">226408.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weekend_at_Bernie%27s">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Cave_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Reilly_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tron_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Dog_Skip_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_the_Dead_2_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Relic_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coonskin_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1600000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teaching_Mrs._Tingle">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Labyrinth_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S.W.A.T._%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Somewhere_in_Time_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5100000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mermaids_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mackenna%27s_Gold">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spider_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sometimes_They_Come_Back..._Again">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rounders_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crimson_Tide_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sphere_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pooh%27s_Heffalump_Movie">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Insider_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Crow_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Momma%27s_House_2">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/42nd_Street_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">439000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friendly_Persuasion_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_of_Darkness_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Things_to_Do_in_Denver_When_You%27re_Dead">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nickelodeon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peeping_Tom_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">135000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Art_of_War_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/One_Night_at_McCool%27s">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/It%27s_All_About_Love">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Replicant_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brother_2">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dr._Dolittle_2">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunset_Boulevard_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1750000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Full_Frontal_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mr._Magoo_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poltergeist_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.07E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collateral_Damage_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Glass_House_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phone_Booth_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glengarry_Glen_Ross_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.25E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Torque_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Midnight_Express_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2300000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Bodyguard">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jesus%27_Son">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wizards_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dad_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.9E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rashomon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">250000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cellular_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Left_Foot_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">600000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Bodyguard">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1700000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domino_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pan%27s_Labyrinth">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.9E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bloodsport_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1100000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Color_Purple_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El_Muerto_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thank_God_It%27s_Friday">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Something%27s_Gotta_Give_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Desperate_Hours_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2388000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_House_of_the_Spirits_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Levity_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Radio_Flyer_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Britain_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_%27Burbs">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Lampoon%27s_Animal_House">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2700000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Booty_Call">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guess_Who%27s_Coming_to_Dinner">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fantastic_Mr._Fox_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Breakin%27_All_the_Rules">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Daddy_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.42E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/An_American_in_Paris_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2723903.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Kingdom_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Last_Man_Standing_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I%27m_No_Angel">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">225000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Jake_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4800000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conspiracy_Theory_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Spirit_of_St._Louis_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Celebrity_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/What%27s_Love_Got_to_Do_with_It_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Graffiti_Bridge_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greetings_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">39000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boogeyman_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/What_Dreams_May_Come_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rabbit-Proof_Fence_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/28_Days_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thirteen_Days_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Howling_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Guerin_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kinsey_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Purple_Rain_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arachnophobia_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Platoon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lifeboat_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1590000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.55E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Les_liaisons_dangereuses_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4300000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lifeforce_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heist_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.9E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valley_Girl_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">350000.0</t:budget>
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">600000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/It%27s_a_Wonderful_Life">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3180000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Rose_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/8mm_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wild_Orchid_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duplex_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stand_by_Me_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Money_for_Nothing_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wolf_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narc_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wicker_Park_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mortal_Kombat_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curious_George_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hours_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hook_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ultraviolet_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diggers_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ratatouille_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Superstar_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chairman_of_the_Board_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Craft_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Star_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">60000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Human_Nature_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Casablanca_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">964000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Devil%27s_Gate_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Mother_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">1500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romeo_%2B_Juliet">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.45E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mo%27_Better_Blues">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Summer_of_%2742">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Easy_Rider">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">340000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Magnificent_Ambersons_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">850000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chameli_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pay_It_Forward">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patton_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Black_Cauldron_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strange_Days_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Mask_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1941_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smoke_Signals_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spider-Man_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equilibrium_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JFK_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Misfits_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saved%21">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/300_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Closer_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Under_the_Tuscan_Sun_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robots_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slacker_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">23000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rent_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stargate_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yellow_Submarine_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">250000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Planet_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battleground_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Adventures_of_Robin_Hood_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Can%27t_Stop_the_Music">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bottle_Rocket">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hidalgo_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pee-wee%27s_Big_Adventure">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Cruz_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ring_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minority_Report_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.02E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweet_Home_Alabama_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ocean%27s_Twelve">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bridget_Jones%27s_Diary_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papillon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Talented_Mr._Ripley_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boss%27n_Up">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">550000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Girl_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/For_Your_Consideration_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dragonfly_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White_Noise_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Titus_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amadeus_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/We_Don%27t_Live_Here_Anymore">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dawn_of_the_Dead">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Judge_Dredd_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orlando_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turkish_Delight_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/euro">365000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cronos_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Sound_of_Thunder_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Keep_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doomsday_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">1.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Performance_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">750000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miller%27s_Crossing">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_French_Connection_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1800000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naked_Lunch_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">17.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baby_Face_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">187000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Popeye_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UHF_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erin_Brockovich_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Doors_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glitter_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweet_Sweetback%27s_Baadasssss_Song">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taking_Lives_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Women_in_Love_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1600000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trash_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">25000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Head_of_State_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Divine_Secrets_of_the_Ya-Ya_Sisterhood_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diner_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stuck_on_You_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Princess_Diaries_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reefer_Madness">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">100000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Novocaine_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Awake_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8600000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Haunted_Mansion_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blade_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_Children_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dogma_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lorenzo%27s_Oil">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Caine_Mutiny_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ed_Wood_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/All_the_Queen%27s_Men">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Black_Knight_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alien_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fantasia_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2280000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/City_Hall_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Brain_That_Wouldn%27t_Die">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">62000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/One_Flew_Over_the_Cuckoo%27s_Nest_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4400000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Starman_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/November_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">250000.0</t:budget>
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0</t:budget>
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">150000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Collins_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deep_Impact_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Damned_Don%27t_Cry%21">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1233000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferris_Bueller%27s_Day_Off">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5800000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serenity_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.9E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiss_the_Girls_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nighthawks_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malibu%27s_Most_Wanted">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_American_President">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barnyard_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Encino_Man">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Brave_Little_Toaster_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2300000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Double_Jeopardy_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Porky%27s">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Casper_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaws_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timecode_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eragon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bells_Are_Ringing_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Know_Where_I%27m_Going%21">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Killing_Me_Softly_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kung_Pow%21_Enter_the_Fist">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lloyd%27s_of_London_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">850000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lemony_Snicket%27s_A_Series_of_Unfortunate_Events">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Infamous_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_English_Patient_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Primal_Fear_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nam%27s_Angels">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">350000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlito%27s_Way">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marooned_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rock_%27n%27_Roll_High_School">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">300000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suspicion_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1800000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pecker_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_War_at_Home_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/How_the_West_Was_Won_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghost_Rider_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junior_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sleepover_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U.S._Marshals_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Astronaut%27s_Wife">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ms._45">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">62000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bound_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swordfish_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.02E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruiser_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nadja_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Mothman_Prophecies_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Another_Day_in_Paradise_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TMNT_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dirigible_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">650000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/10_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.4856E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Point_Blank_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tart_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3300000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chance_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">75000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C.R.A.Z.Y.">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White_Oleander_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Behind_the_Sun_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dante%27s_Peak">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.16E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stuart_Little_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cannibal%21_The_Musical">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">125000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Year_of_the_Dragon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Firewall_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Saint_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/She%27s_All_That">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Trouble_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zabriskie_Point_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pete%27s_Dragon">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Selena_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Exotica_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/canadianDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Old_School_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lost_in_Translation_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unforgettable_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Home_for_the_Holidays_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rush_Hour_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/She%27s_the_One">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Outland_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SLC_Punk%21">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">600000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alaska_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Quest_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Super_Mario_Bros._%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donnie_Brasco_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_World%27s_Fastest_Indian">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birth_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Snatch_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cliffhanger_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paycheck_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Species_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jurassic_Park_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cabin_Fever_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anaconda_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Sand_Pebbles_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Savior_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Country_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lovely_Bones_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wings_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gone_Fishin%27_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reign_of_Fire_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wayne%27s_World_2">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/XXx">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Starship_Troopers_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.05E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apt_Pupil_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Left_for_Dead_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulee%27s_Gold">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2700000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White_Squall_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minotaur_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shine_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stigmata_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.9E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Eye_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poseidon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.6E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hey_Good_Lookin%27_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/In_Cold_Blood_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_on_Haunted_Hill">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thirteen_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Boys_from_Brazil_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Out_of_Africa_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Firefox_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/25th_Hour">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Havoc_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aquamarine_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jumpin%27_Jack_Flash_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gentleman%27s_Agreement">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Showtime_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sullivan%27s_Travels">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">689665.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wing_Commander_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trick_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">450000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wild_at_Heart_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Cat_o%27_Nine_Tails">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heaven%27s_Gate_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muriel%27s_Wedding">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camelot_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jumper_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Pledge_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barcelona_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catwoman_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nixon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Bug%27s_Life">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daylight_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walker_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transamerica_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miracle_Mile_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3700000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flags_of_Our_Fathers_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Absolute_Power_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Night_of_the_Living_Dead">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">114000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hostage_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timeline_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Best_Friend%27s_Wedding">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caligula_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.75E7</t:budget>
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spawn_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Detroit_Rock_City_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Devil%27s_Rejects">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gone_with_the_Wind_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3850000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Bourne_Ultimatum_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Momma%27s_House">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Spiderwick_Chronicles_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chain_Reaction_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ginger_Snaps_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4800000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Business_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Green_Berets_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crossfire_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">250000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Splash_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jarhead_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hang_%27Em_High">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1600000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadpole_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">150000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Longest_Day_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thinner_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mulholland_Drive_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ran_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don%27t_Say_a_Word">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vampires_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Top_Hat">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">609000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_Times_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fritz_the_Cat_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">850000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L.I.E.">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">700000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rock_Star_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lake_Placid_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/What_a_Girl_Wants_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/X2_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/For_Love_of_the_Game_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/X-Men_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Entrapment_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dr._Dolittle_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.05E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosewood_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Event_Horizon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">60.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mimic_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_Royale_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Idiot%27s_Delight_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1519000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tombstone_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Street_Fighter_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Young_Mr._Lincoln">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xanadu_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zodiac_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Happily_N%27Ever_After">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolina_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inchon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Devil%27s_Advocate_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhinestone_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Bourne_Supremacy_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gregory%27s_Girl">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">500.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabethtown_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Hotel_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">700000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earthquake_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nora%27s_Hair_Salon">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cocoon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.75E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blue_Streak_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anger_Management">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jackie_Brown_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Rules_of_Attraction_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doctor_Dolittle_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patch_Adams_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jason%27s_Lyric">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Cider_House_Rules_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zulu_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Braindead_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Casino_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valmont_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cat_on_a_Hot_Tin_Roof_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/River%27s_Edge">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1700000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hocus_Pocus_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Skulls_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Notting_Hill_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bananas_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sleepers_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_War_of_the_Roses_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blow_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drumline_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dinner_at_Eight_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">435000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El_Cid_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faithful_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Remains_of_the_Day_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Four_Brothers_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Puteri_Gunung_Ledang_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiki%27s_Delivery_Service">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/japaneseYen">8.0E8</t:budget>
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6927244.46</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sleeper_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cold_Mountain_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.9E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/In_My_Father%27s_Den_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swiss_Family_Robinson_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Air_America_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hurry_Sundown_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3785000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Limbo_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slackers_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bounce_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Golden_Compass_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.8E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Capote_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enemy_of_the_State_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baby%27s_Day_Out">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Life_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fisher_King_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grumpy_Old_Men_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.51E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_NeverEnding_Story_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Man_Who_Wasn%27t_There">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marnie_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nothing_Lasts_Forever_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gandhi_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buffy_the_Vampire_Slayer_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilde_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dead_Zone_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wayne%27s_World_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frequency_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe%27s_Apartment">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evita_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dreamcatcher_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sin_City_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shout_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Identity_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hannibal_Rising_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airplane%21">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Contempt_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">900000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Much_Ado_About_Nothing_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bright_Eyes_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">190000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Poppins_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MASH_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Munich_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_Kelly%27s_Blues_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deep_Throat_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">22500.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cube_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/canadianDollar">365000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Someone_Like_You_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philadelphia_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duma_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fathers%27_Day_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Double_Indemnity_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">980000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Striptease_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jinnah_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ode_to_Billy_Joe_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1100000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revenge_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Supergirl_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tremors_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Scanner_Darkly_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8700000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hannibal_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goin%27_Down_the_Road">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/canadianDollar">87000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steel_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cyborg_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/She%27s_the_Man">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schindler%27s_List">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dirty_Pretty_Things_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Snake_Eyes_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El_Norte_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">800000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Intermission_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hardball_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rapa_Nui_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bring_It_On_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hearts_in_Atlantis_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V_for_Vendetta_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woo_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sleepy_Hollow_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_Pie_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/She%27s_Gotta_Have_It">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">175000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phantasm_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">300000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Get_Rich_or_Die_Tryin%27_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Good_Boy%21">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Excalibur_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Specials_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guinevere_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2600000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hair_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingpin_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trainspotting_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monument_Ave.">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1000001E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leprechaun_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">900000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rope_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Major_League_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.35E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/To_Die_For">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sorcerer_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saw_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E.T._the_Extra-Terrestrial">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.05E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fluke_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/B*A*P*S">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Downfall_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/euro">1.35E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fargo_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Yearling_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wes_Craven%27s_New_Nightmare">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/See_No_Evil_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hulk_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.37E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Intolerance_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cars_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Get_Over_It_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cats_Don%27t_Dance">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Let_It_Ride_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Badlands_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheena_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Clan_of_the_Cave_Bear_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentine_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.9E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_Shop_of_Horrors_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dream_Team_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I.Q._%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Da_Vinci_Code_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.25E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baby_Boy_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darling_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">400000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Affliction_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sprung_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hart%27s_War">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Look_Who%27s_Talking">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Elephant_Man_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/But_I%27m_a_Cheerleader">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Godfather_Part_III">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Why_Do_Fools_Fall_in_Love_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wimbledon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Babe_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Troy_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.75E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Copycat_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Multiplicity_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jezebel_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1250000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antwone_Fisher_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.25E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silent_Hill_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bachelor_Party_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Arthur_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Layer_Cake_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Delgo_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Snow_Falling_on_Cedars_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shout_at_the_Devil_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_People_vs._Larry_Flynt">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Doctor_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pearl_Harbor_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rushmore_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wah-Wah">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomcats_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/That_Thing_You_Do%21">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varsity_Blues_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meatballs_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1600000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_Minute_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Groundhog_Day_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.46E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masters_of_the_Universe_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fog">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lilies_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/canadianDollar">2200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_R.M.">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lawnmower_Man_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seabiscuit_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">80000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Green_Mile_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_First_%2420_Million_Is_Always_the_Hardest">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cabaret_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Escape_from_Alcatraz_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ice_Age_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.9E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meteor_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nashville_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walkabout_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Killing_Fields_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.44E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fall_of_the_Roman_Empire_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Garden_State_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stripes_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/On_the_Line_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riding_the_Bullet_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Helix...Loaded">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mommie_Dearest_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murphy%27s_Romance">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faces_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">275000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unleashed_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bringing_Down_the_House_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tequila_Sunrise_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Watership_Down_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3838808.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Wash_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wishmaster_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strangers_on_a_Train_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Prestige_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cabin_Boy">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flash_Gordon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rob_Roy_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghost_in_the_Machine_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brick_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">475000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Message_in_a_Bottle_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soul_Food_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polyester_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">300000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Captain_Corelli%27s_Mandolin_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Win_a_Date_with_Tad_Hamilton%21">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frantic_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blink_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C.H.U.D.">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1250000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Independence_Day_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dead_End">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">900000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Last_King_of_Scotland_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Free_Zone_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1234567.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Can%27t_Hardly_Wait">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deterrence_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">800000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boiler_Room_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bad_News_Bears">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blast_from_the_Past_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1900_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Age_of_Consent_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacob%27s_Ladder_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Talk_Radio_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murderball_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">300000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doom_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fanaa_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5300000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_the_Dead_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Losin%27_It">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Outbreak_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Score_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Breakdown_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Rock_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iris_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You%27ve_Got_Mail">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Cotton_Club_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willow_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">35.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Idlewild_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Running_with_Scissors_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surf%27s_Up_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_Party_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elf_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishtar_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gridlock%27d">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medicine_Man_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Double_Team_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Candyman_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadcast_News_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poison_Ivy_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Legend_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barbarella_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Missing_in_Action_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2550000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serendipity_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grease_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don%27t_Come_Knocking">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blood_from_the_Mummy%27s_Tomb">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Child%27s_Play_3">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Child%27s_Play_2">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stealth_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.38E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Who%27s_That_Knocking_at_My_Door">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">75000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scream_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vertigo_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2479000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hand_That_Rocks_the_Cradle_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.17E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tai-Pan_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Over_the_Hedge_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Good_Son_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panic_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Devil%27s_Own">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Keeble%27s_Big_Move">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Man_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collateral_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2046_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Disclosure_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waking_the_Dead_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eulogy_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Treasure_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Young_Adam_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6400000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Good_Earth_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2800000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dune_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friday_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tora%21_Tora%21_Tora%21">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Above_the_Law_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Point_Break">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Congo_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fantastic_Four_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drop_Zone_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lost_in_Space_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sgt._Pepper%27s_Lonely_Hearts_Club_Band_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soldier_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coraline_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Snow_Day_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilson_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weekend_at_Bernie%27s_II">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Babel_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/America%27s_Sweethearts">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swimming_Pool_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7800000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manhunter_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spanglish_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Swarm_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beloved_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patriot_Games_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">544472.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Clockwork_Orange_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitch_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orca_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Howards_End_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Jane_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">8500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_X_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cypher_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Men_in_Black_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/What_Ever_Happened_to_Baby_Jane%3F_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">980000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brazil_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronin_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Emperor%27s_Club">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.25E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thunderbirds_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phenomenon_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daredevil_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.8E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wyatt_Earp_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6.3E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/What%27s_the_Worst_That_Could_Happen%3F">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/In_Too_Deep_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.7E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transformers_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_Mnemonic_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.6E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hitchhiker%27s_Guide_to_the_Galaxy_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">45.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Omen">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2800000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kids_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eraser_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kelly%27s_Heroes">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jagged_Edge_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghost_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.1E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mickey_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mystery_Train_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2800000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fantastic_Four_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monster%27s_Ball">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/After_Hours_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Across_the_Wide_Missouri_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Contact_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dirty_Dancing">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Network_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">3800000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malice_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Emperor%27s_New_Groove">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E8</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Everything_Is_Illuminated_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Supercross_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">9000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aliens_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.85E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Christina_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1114000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Basic_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Raisin_in_the_Sun_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1500000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Hard_Day%27s_Night_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/poundSterling">200000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hot_Shots%21_Part_Deux">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2.5E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teacher%27s_Pet_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hard_Rain_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">7.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donovan%27s_Reef">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">2686585.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morgan_Stewart%27s_Coming_Home">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">6000000.0</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apollo_13_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5.2E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Urban_Legend_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lean_on_Me_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.0E7</t:budget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tommy_%28film%29">
+    <t:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">5000000.0</t:budget>
+  </rdf:Description>
+</rdf:RDF>

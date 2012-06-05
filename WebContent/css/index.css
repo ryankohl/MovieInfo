@@ -1,0 +1,57 @@
+#surveyEndpoints {
+	float: left;
+}
+#surveyTop { 
+	clear: both;
+}
+#surveyTopLeft {		
+	float: left;
+	width: 650px;
+}
+#surveyTopRight  {		
+	float: right;
+	width: 45%;
+	margin-right: 30px;
+}
+#surveyQueryBox {
+	width: 100%;
+}
+#surveyClassContent {
+	height: 200px;
+	overflow: auto;
+}
+#surveyBottom, #extractBottom, #integrateBottom {
+	clear:both;		
+	margin-bottom: 20px;
+}
+#integrateDataFiles, #integrateOntologies, 
+#integrateRules {
+	clear: both
+	float: left;
+	margin-top: 20px;
+}
+#integrateDeleteOntologyButton, 
+#integrateDeleteRulesButton {
+	float: right;
+}
+#survey, #extract, #integrate, #analytic {
+	overflow: auto;
+	width: 100%
+}
+#extractLeft, #integrateLeft, #analyticLeft {
+	float: left;	
+}
+#extractRight, #integrateRight, #analyticRight {
+	float: right;	
+	margin-right: 30px;
+}
+#integrateRight {
+	width: 40%;
+}
+#analyticPieChart {
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	width: 300px;
+	height: 300px;
+}

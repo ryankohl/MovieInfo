@@ -1,0 +1,704 @@
+<rdf:RDF
+    xmlns="http://data.linkedmdb.org/resource/movie/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:t="http://tutori.al/" > 
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/312">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_Elephant_Man_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Elephant_Man_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9778">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/247"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/159"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9912">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/249"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9779">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/638"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/247">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Mary_Poppins_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Mary_Poppins_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/97">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Viva_Villa%21"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Viva_Villa%21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9826">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/756"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/942">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Mystic_River_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Mystic_River_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9746">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/794"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/282">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Roger_%26_Me"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Roger_%26_Me"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/816">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Party_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_Party_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/478">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Human_Nature_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Human_Nature_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/191">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Modern_Times_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Modern_Times_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/660">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Marnie_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Marnie_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/127">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Above_the_Law_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Above_the_Law_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9806">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/702"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/973">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alex_%26_Emma"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Alex_%26_Emma"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/810">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gandhi_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Gandhi_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/487">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/To_Sir%2C_with_Love"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/To_Sir%2C_with_Love"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9731">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/719"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/953">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Anger_Management"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anger_Management"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9750">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/32"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/679"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/992">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Kiki%27s_Delivery_Service"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kiki%27s_Delivery_Service"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/3">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/343"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/53"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9858">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/285"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9664">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/512"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/430">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Starman_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Starman_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/346">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_Circus_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Circus_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9878">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/284"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/1008">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Big_Daddy_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Big_Daddy_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9763">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/856"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/65"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/362"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/450">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Nixon_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nixon_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/477">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Labyrinth_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Labyrinth_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/259">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Rio_Bravo_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Rio_Bravo_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9901">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/517"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/430"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/234">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Vertigo_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Vertigo_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/602">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Air_Force_One_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Air_Force_One_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9711">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/487"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9807">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/216"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/702">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/East_of_Eden_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/East_of_Eden_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/80">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sleepy_Hollow_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Sleepy_Hollow_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/719">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Twister_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Twister_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/216">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Sherlock%2C_Jr."/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sherlock%2C_Jr."/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/856">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Hulk_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hulk_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9658">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/904"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9734">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/610"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/956">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Philadelphia_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Philadelphia_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9943">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/953"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/1008"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/284">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_Sand_Pebbles_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Sand_Pebbles_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/159">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fantasia_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Fantasia_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9766">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/168"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9663">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/778"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/417">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Black_Stallion_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_Black_Stallion_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/569">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Twentieth_Century_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Twentieth_Century_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9786">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/816"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/278">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Blow_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Blow_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/7">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/97"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/771">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bram_Stoker%27s_Dracula"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Bram_Stoker%27s_Dracula"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9724">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/160"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9804">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/278"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9867">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/275"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/245">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Wayne%27s_World_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Wayne%27s_World_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9944">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/365"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/245"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/740">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Yojimbo_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Yojimbo_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/718">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Ishtar_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ishtar_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/435">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Salvador_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/199">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Rope_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Rope_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9659">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/191"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/346"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/475">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dangerous_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Dangerous_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/512">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Intolerance_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Intolerance_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/748">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/O_Lucky_Man%21"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/O_Lucky_Man%21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9811">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9642">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/740"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/206">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Red_River_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Red_River_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/67">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/French_Kiss_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/French_Kiss_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/329">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_Godfather_Part_III"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Godfather_Part_III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9706">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/452"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/956"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/144">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Signs_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Signs_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/778">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Charlie%27s_Angels"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charlie%27s_Angels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/604">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/To_Catch_a_Thief_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/To_Catch_a_Thief_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9672">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/278"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9905">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/810"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/266">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ferris_Bueller%27s_Day_Off"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Ferris_Bueller%27s_Day_Off"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9682">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/86"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/107"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/610">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Only_When_I_Laugh_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Only_When_I_Laugh_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/218">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Show_Boat_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Show_Boat_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/757">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Arachnophobia_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Arachnophobia_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/32">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Rock_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_Rock_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/362">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Spider-Man_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Spider-Man_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9753">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9780">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/756"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9812">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/1016"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/851"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/195"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/638">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Bound_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bound_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/195">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Nashville_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nashville_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/707">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Stage_Fright_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Stage_Fright_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/1016">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Afterglow_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Afterglow_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9722">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/748"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/425">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Men_in_Black_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Men_in_Black_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/45">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/JFK_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/JFK_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9892">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/144"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/285">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dogma_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Dogma_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9729">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/992"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9906">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/134"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/756">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Troy_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Troy_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9735">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/45"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/450"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/435"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/451"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/122">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Schindler%27s_List"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Schindler%27s_List"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/343">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Insider_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_Insider_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9889">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/597"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/275">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Friendly_Persuasion_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Friendly_Persuasion_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9754">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/478"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/194">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Suspicion_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Suspicion_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9868">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/718"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9773">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/294"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/597">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cabaret_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Cabaret_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/65">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/X-Men_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/X-Men_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9640">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/604"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/660"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/652"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/234"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/199"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/194"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/707"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9693">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/206"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/569"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/259"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9728">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/312"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9809">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/942"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/651">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_American_President"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_American_President"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/904">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Monster_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Monster_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/679">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Entrapment_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Entrapment_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9748">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/973"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/651"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/517">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Rainmaker_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_Rainmaker_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/794">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Kingdom_of_Heaven_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kingdom_of_Heaven_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/715">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Malcolm_X_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Malcolm_X_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/632">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Dreams_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dreams_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/985">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Point_Break"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Point_Break"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/13">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9895">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/282"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/168">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_Great_Train_Robbery_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Great_Train_Robbery_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9678">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/80"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/771"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/329"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/107">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Lost_Horizon_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Lost_Horizon_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/160">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Fatty%27s_Tintype_Tangle"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fatty%27s_Tintype_Tangle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9884">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/424"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9920">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/475"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9800">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/970"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/451">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_People_vs._Larry_Flynt"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_People_vs._Larry_Flynt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9767">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/148"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9875">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/127"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9702">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/985"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/652">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Strangers_on_a_Train_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Strangers_on_a_Train_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/134">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Badlands_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Badlands_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9752">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/154"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/632"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/425"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/757"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/122"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9685">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/527"/>
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/477"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/148">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Civilization_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Civilization_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/producer/9842">
+    <t:produced rdf:resource="http://data.linkedmdb.org/resource/film/67"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/851">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Quintet_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Quintet_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/154">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/E.T._the_Extra-Terrestrial"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/E.T._the_Extra-Terrestrial"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/86">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/It%27s_a_Wonderful_Life"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/It%27s_a_Wonderful_Life"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/527">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Willow_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Willow_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/53">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Heat_%28film%29"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Heat_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/365">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Wayne%27s_World_2"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Wayne%27s_World_2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/294">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cabin_Boy"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Cabin_Boy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/452">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ulee%27s_Gold"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Ulee%27s_Gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/424">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Spartacus_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Spartacus_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/970">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Wasabi_%28film%29"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/Wasabi_%28film%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/249">
+    <rdf:type rdf:resource="http://tutori.al/Film"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Bells_of_St._Mary%27s"/>
+    <owl:sameAs rdf:resource="http://mpii.de/yago/resource/The_Bells_of_St._Mary%27s"/>
+  </rdf:Description>
+</rdf:RDF>
